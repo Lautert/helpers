@@ -1,6 +1,7 @@
 # Helpers
 
-It is not a Lib, is a simple files with many functions to help in develop,
+It is not a Lib, is a simple files with many functions to help in develop.
+
 You need to see the functions to know if any can help you.
 
 ## License
